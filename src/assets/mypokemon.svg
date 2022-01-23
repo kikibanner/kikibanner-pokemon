@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="Group_46" data-name="Group 46" transform="translate(-639 -2028)">
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="68" height="68" transform="translate(639 2028)" fill="none"/>
+    <g id="mypokemon" transform="translate(654.006 2043.011)">
+      <g id="Path_5" data-name="Path 5" transform="translate(0.037 0.696)">
+        <path id="Path_17" data-name="Path 17" d="M19,37A18,18,0,0,1,6.272,6.272,18,18,0,1,1,31.728,31.728,17.882,17.882,0,0,1,19,37Z" fill="#eaeaea"/>
+        <path id="Path_18" data-name="Path 18" d="M19,2A17,17,0,0,0,6.979,31.021,17,17,0,1,0,31.021,6.979,16.889,16.889,0,0,0,19,2m0-2A19,19,0,1,1,0,19,19,19,0,0,1,19,0Z" fill="#9e9e9e"/>
+      </g>
+      <g id="Group_7" data-name="Group 7">
+        <g id="Group_6" data-name="Group 6" transform="translate(0 14.03) rotate(-30)">
+          <path id="Subtraction_2" data-name="Subtraction 2" d="M14.03,28.378A14.183,14.183,0,0,1,0,16.327H3.951a10.3,10.3,0,0,0,20.157,0H28.06A14.179,14.179,0,0,1,14.03,28.378ZM3.951,12.051H0a14.195,14.195,0,0,1,28.063-.005H24.108a10.3,10.3,0,0,0-20.157,0Z" fill="#9e9e9e"/>
+        </g>
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="7" cy="6.5" rx="7" ry="6.5" transform="translate(12.037 12.696)" fill="#9e9e9e"/>
+      </g>
+    </g>
+  </g>
+</svg>

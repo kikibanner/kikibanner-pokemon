@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="16.361" cy="16.149" rx="16.361" ry="16.149" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_49" data-name="Group 49" transform="translate(-707 -1951)">
+    <g id="Group_47" data-name="Group 47" transform="translate(68 -77)">
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="68" height="68" transform="translate(639 2028)" fill="none"/>
+    </g>
+    <g id="Group_48" data-name="Group 48" transform="translate(711.894 1959.506)">
+      <g id="Group_12" data-name="Group 12" transform="translate(3.784 18.486) rotate(-30)">
+        <g id="Group_11" data-name="Group 11" transform="translate(0 0)">
+          <circle id="Ellipse_4" data-name="Ellipse 4" cx="18.486" cy="18.486" r="18.486" fill="#9e9e9e"/>
+          <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(2.125 2.55)" clip-path="url(#clip-path)">
+            <g id="Group_3" data-name="Group 3" transform="translate(-14.874 -3.825)">
+              <rect id="Rectangle_3" data-name="Rectangle 3" width="62.045" height="19.973" transform="translate(0 19.973)" fill="#fff"/>
+              <g id="Group_2" data-name="Group 2" transform="translate(0 0)">
+                <rect id="Rectangle_2" data-name="Rectangle 2" width="62.045" height="19.973" fill="#9e9e9e"/>
+                <rect id="Rectangle_4" data-name="Rectangle 4" width="44.621" height="2.125" transform="translate(8.924 19.123)" fill="#9e9e9e"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <circle id="Ellipse_10" data-name="Ellipse 10" cx="2.762" cy="2.762" r="2.762" transform="translate(15.724 15.724)"/>
+        <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(10.624 10.624)" fill="#fff" stroke="#9e9e9e" stroke-width="5">
+          <circle cx="7.862" cy="7.862" r="7.862" stroke="none"/>
+          <circle cx="7.862" cy="7.862" r="5.362" fill="none"/>
+        </g>
+      </g>
+      <path id="Subtraction_10" data-name="Subtraction 10" d="M6.375,59.493h0L0,29.747,6.374,0l6.375,29.747Zm0-33.33a3.414,3.414,0,1,0,0,6.81,3.414,3.414,0,1,0,0-6.81Z" transform="translate(51.522 5) rotate(60)" fill="#9e9e9e"/>
+    </g>
+  </g>
+</svg>
